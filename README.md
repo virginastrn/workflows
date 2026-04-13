@@ -1,4 +1,5 @@
 # Final Project: Introduction to CI/CD
+![CI Build](https://github.com/virginastrn/workflows/actions/workflows/workflow.yml/badge.svg)
 **Nama:** Virgina Staraina  
 **NIM:** A11.2023.15381  
 **Universitas:** Universitas Dian Nuswantoro (UDINUS)  
